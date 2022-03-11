@@ -1,0 +1,5 @@
+npm i -g create-react-app	-installs
+
+create-react-app react-app	-creates
+
+npm start	-starts
